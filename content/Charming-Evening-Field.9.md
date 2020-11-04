@@ -5,7 +5,7 @@ description: This is meta description
 type: post
 image: "/images/16.jpg"
 categories:
-- Food
+- car
 tags:
 - Photos
 - Food
